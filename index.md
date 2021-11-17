@@ -24,6 +24,7 @@
 * Missing door for washer/dryer closet
 * Missing grouting in ceramics in washer/dryer closet
 * Door handle is badly scratched
+* Door frame is chipped
 
 
 ### Bedroom 2
@@ -87,6 +88,7 @@
 * Assurer tout les planchers sont d’equerre
 * Finir joint céramique derriere hotte
 * Scratch poignée SDB2
+* Cadre de porte SDB2 abime
 * Joint céramique manquant salle lavage
 * Trou ch2 droite prise cadre 
 * Manque porte pièce laveuse sécheuse 
@@ -97,14 +99,14 @@
 * Vérifier prise électrique extérieur (neutre inverse)
 * Manque garde robe chambre principale
 * Nettoyer plâtre sur fenêtres et réparer scratch 
-* Trou SDB 1 mur switch ventilation 
-* Ajustement portes armoire sdb1 self close ne fonctionne pas
-* Nettoyer charnières porte sdb1 
-* Lumière à aligner SDB 1
+* Trou SDB1 mur switch ventilation 
+* Ajustement portes armoire SDB1 self close ne fonctionne pas
+* Nettoyer charnières porte SDB1 
+* Cadre de porte SDB1 abime
+* Lumière à aligner SDB1
 * Nettoyer plancher walk in 
 * Planche armoire salle de bain pas fixée joint craquer
 * Mirroir residu de coulis
-* Cadre de porte abime
 * Nettoyer les coulis sur toute la céramique dans l’unite
 * Joint de céramique croche dans SDB1
 
