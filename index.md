@@ -68,9 +68,7 @@
 ### En Francais:
 * Manque seuil de porte entrée 
 * Manque coupe son porte entree
-
 * Porte garde robe entrée frotte 
-
 * Plaque de cuisson est brisée 
 * Manque four
 * Manque filler cuisine 
@@ -88,25 +86,17 @@
 * Assurer tout les comptoir sont d’équerre
 * Assurer tout les planchers sont d’equerre
 * Finir joint céramique derriere hotte
-
 * Scratch poignée SDB2
 * Joint céramique manquant salle lavage
-
 * Trou ch2 droite prise cadre 
-
 * Manque porte pièce laveuse sécheuse 
 * Nettoyer céramique plancher SDB2 et SDB1
 * Remplir coin entre SDB2 céramique plancher 
-
 * Vérifier craques dans plafond béton (ajouter scellant)
-
 * Gap entre moulure haut de porte garde robe ch 2 (ajouter latex scellant)
-
 * Vérifier prise électrique extérieur (neutre inverse)
-
 * Manque garde robe chambre principale
 * Nettoyer plâtre sur fenêtres et réparer scratch 
-
 * Trou SDB 1 mur switch ventilation 
 * Ajustement portes armoire sdb1 self close ne fonctionne pas
 * Nettoyer charnières porte sdb1 
@@ -115,8 +105,6 @@
 * Planche armoire salle de bain pas fixée joint craquer
 * Mirroir residu de coulis
 * Cadre de porte abime
-
-
 * Nettoyer les coulis sur toute la céramique dans l’unite
 * Joint de céramique croche dans SDB1
 
@@ -126,9 +114,9 @@
 ![Image](/assets/140905.jpg)
 ![Image](/assets/140939.jpg)
 ![Image](/assets/141046.jpg)
+![Image](/assets/kitchen.jpg)
 ![Image](/assets/141131.jpg)
 ![Image](/assets/141154.jpg)
-![Image](/assets/141209.jpg)
 ![Image](/assets/141209.jpg)
 ![Image](/assets/141336.jpg)
 ![Image](/assets/141550.jpg)
@@ -157,6 +145,8 @@
 ![Image](/assets/143025.jpg)
 ![Image](/assets/143139.jpg)
 ![Image](/assets/143252.jpg)
+![Image](/assets/143639.jpg)
+![Image](/assets/walk_in.jpg)
 ![Image](/assets/143732.jpg)
 ![Image](/assets/143801.jpg)
 ![Image](/assets/143823.jpg)
