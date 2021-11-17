@@ -1,5 +1,3 @@
-## Gallery 3 Inspection Notes
-
 ### Kitchen
 * Kitchen is not built according to plans
 * Missing oven
@@ -117,6 +115,7 @@
 * Joint de céramique croche dans SDB1
 
 
+![Image](/assets/140244.jpg)
 
 [Link](url) and ![Image](src)
 
