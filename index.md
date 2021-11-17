@@ -1,8 +1,79 @@
-## Welcome to GitHub Pages
+## Gallery 3 Inspection Notes
 
-You can use the [editor on GitHub](https://github.com/mikeburkat/gallery-3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Kitchen
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Bathroom 2
+* Ceramics joints are misaligned
+* 
+
+### Bedroom 2
+
+### Walk In Closet
+
+* Missing all shelving
+* Clean floor boards where plaster has leaked into joints
+
+### Master Bedroom
+
+### Master Bathroom
+* Light fixture is misaligned
+* Mirror has residue from grouting or other material, needs cleaning
+* Lose borad in bathroom shelving needs to be fixed, its joint cracked and needs fixing too
+
+### General
+* All the ceramics in the unit need to be cleaned again, because there is leftover grout stains
+
+### All items in french:
+* Manque seuil de porte entrée 
+* Manque coupe son porte entree
+
+* Porte garde robe entrée frotte 
+
+* Plaque de cuisson est brisée 
+* Manque four
+* Manque filler cuisine 
+* Nettoyer coulis sur backsplash cuisine 
+* Planche dessus hotte à fixer
+* Nettoyer la hotte scratch visibles
+* Nettoyer silicone intérieur panneau dessous four 
+* Manque silicone sur cabinet d’armoire a droite du frigo 
+* Remplir le joint avec latex proprement
+* Finir edge sous armoire cuisine 
+* Nettoyer colle intérieur armoires
+* Plinthes salon doivent être installées 
+* Pocket door frame doit être installé 
+* Remettre tout la cuisine d’equere, incluant l’iliot.
+* Assurer tout les comptoir sont d’équerre
+* Assurer tout les planchers sont d’equerre
+* Finir joint céramique derriere hotte
+* Scratch poignée SDB2
+* Joint céramique manquant salle lavage
+
+* Trou ch2 droite prise cadre 
+
+* Manque porte pièce laveuse sécheuse 
+* Nettoyer céramique plancher SDB2 et SDB1
+* Remplir coin entre SDB2 céramique plancher 
+
+* Vérifier craques dans plafond béton (ajouter scellant)
+
+* Gap entre moulure haut de porte garde robe ch 2 (ajouter latex scellant)
+
+* Vérifier prise électrique extérieur (neutre inverse)
+
+* Manque garde robe chambre principale
+* Nettoyer plâtre sur fenêtres et réparer scratch 
+
+* Trou SDB 1 mur switch ventilation 
+* Ajustement portes armoire sdb1 self close ne fonctionne pas
+* Nettoyer charnières porte sdb1 
+* Lumière à aligner SDB 1
+* .Nettoyer plancher walk in 
+* .Planche armoire salle de bain pas fixée joint craquer
+* .Mirror residu de coulis
+
+* .Nettoyer les coulis sur toute la céramique dans l’unite
+* .Joint de céramique croche dans SDB1
 
 ### Markdown
 
