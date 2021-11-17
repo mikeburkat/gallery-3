@@ -1,3 +1,4 @@
+
 ### Kitchen
 * Kitchen is not built according to plans
 * Missing oven
@@ -42,10 +43,12 @@
 ### Master Bathroom
 * Light fixture is misaligned
 * Mirror has residue from grouting or other material, needs cleaning
-* Lose borad in bathroom shelving needs to be fixed, its joint cracked and needs fixing too
+* Lose board in bathroom shelving needs to be fixed, its joint cracked and needs fixing too
 * Clean door hinges
 * Adjust shelving unit hinges, self close is not working
 * Patch hole next to ventilation switch
+* Fill corner gap in ceramics between floors and bathroom
+* Door frame is chipped
 
 
 ### General
@@ -109,13 +112,71 @@
 * Lumière à aligner SDB 1
 * Nettoyer plancher walk in 
 * Planche armoire salle de bain pas fixée joint craquer
-* Mirror residu de coulis
+* Mirroir residu de coulis
+* Cadre de porte abime
+
 
 * Nettoyer les coulis sur toute la céramique dans l’unite
 * Joint de céramique croche dans SDB1
 
 
 ![Image](/assets/140244.jpg)
+![Image](/assets/140858.jpg)
+![Image](/assets/140905.jpg)
+![Image](/assets/140939.jpg)
+![Image](/assets/141046.jpg)
+![Image](/assets/141131.jpg)
+![Image](/assets/141154.jpg)
+![Image](/assets/141209.jpg)
+![Image](/assets/141209.jpg)
+![Image](/assets/141336.jpg)
+![Image](/assets/141550.jpg)
+![Image](/assets/141625.jpg)
+![Image](/assets/141734.jpg)
+![Image](/assets/141917.jpg)
+![Image](/assets/142007.jpg)
+![Image](/assets/142047.jpg)
+![Image](/assets/142148.jpg)
+![Image](/assets/142244.jpg)
+![Image](/assets/142327.jpg)
+![Image](/assets/142329.jpg)
+![Image](/assets/142357.jpg)
+![Image](/assets/142521.jpg)
+![Image](/assets/142524.jpg)
+![Image](/assets/142541.jpg)
+![Image](/assets/142546.jpg)
+![Image](/assets/142549.jpg)
+![Image](/assets/142718.jpg)
+![Image](/assets/142905.jpg)
+![Image](/assets/142911.jpg)
+![Image](/assets/142912.jpg)
+![Image](/assets/142915.jpg)
+![Image](/assets/142932.jpg)
+![Image](/assets/143008.jpg)
+![Image](/assets/143025.jpg)
+![Image](/assets/143139.jpg)
+![Image](/assets/143252.jpg)
+![Image](/assets/143732.jpg)
+![Image](/assets/143801.jpg)
+![Image](/assets/143823.jpg)
+![Image](/assets/144059.jpg)
+![Image](/assets/144132.jpg)
+![Image](/assets/144133.jpg)
+![Image](/assets/144138.jpg)
+![Image](/assets/144348.jpg)
+![Image](/assets/144355.jpg)
+![Image](/assets/144405.jpg)
+![Image](/assets/144443.jpg)
+![Image](/assets/144808.jpg)
+![Image](/assets/144810.jpg)
+![Image](/assets/144813.jpg)
 
-[Link](url) and ![Image](src)
+
+
+
+
+
+
+
+
 
